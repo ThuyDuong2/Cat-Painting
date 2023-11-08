@@ -213,7 +213,7 @@ body {
   left: 0;
   top: 0;
   bottom: 0;
-  margin: 470px auto 0; /* Adjusted margin for feet */
+  margin: 410px auto 0; /* Adjusted margin for feet */
 }
 
 .cat-foot {
@@ -251,7 +251,7 @@ body {
   right: 0;
   left: 0;
   top: 0;
-  margin: 475px auto;
+  margin: 420px auto;
   display: flex;
   justify-content: space-around;
 
