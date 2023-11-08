@@ -44,5 +44,5 @@ To run the development survey form locally, follow these steps:
 
 ### Visual demonstration of this project
 <div>
-   ![my screenshot](../images/catPaiting.png)
+   <img src="/Images/catPaiting.png" alt="Visual Demonstration" title="Cat Painting">
   </div>
